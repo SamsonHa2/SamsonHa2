@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here, you'll find a mix of personal projects, cont
 
 - [Compose Pokedex App](https://github.com/SamsonHa2/Pokedex) 
 - [Geoguessr Clone] <!-- (Link to Project) - Short project description. -->
-- [Tempo Game] (https://github.com/SamsonHa2/Tempo_Game) 
+- [Tempo Game](https://github.com/SamsonHa2/Tempo_Game) 
 
 ## 🚀 GitHub Stats
 
