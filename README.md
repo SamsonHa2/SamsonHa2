@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here, you'll find some of my personal projects.
 ## 💻 Projects
 
 - [Compose Pokedex App](https://github.com/SamsonHa2/Pokedex) 
-- [Geoguessr Clone](https://github.com/SamsonHa2/GeoGuessr_Clone)
+- [Geoguessr Clone](https://github.com/Cyril-Thomas03/GeoWordle)
 - [Tempo Game](https://github.com/SamsonHa2/Tempo_Game) 
 
 ## 🚀 GitHub Stats
