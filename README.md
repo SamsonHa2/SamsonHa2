@@ -4,13 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samson+Ha!;" />
 </h1>
 
-Welcome to my GitHub profile! Here, you'll find a mix of personal projects, contributions to open-source, and a glimpse into my coding journey.
+Welcome to my GitHub profile! Here, you'll find some of my personal projects.
 
 ## 🌱 About Me
-- 🎓 **Software Engineering** 3rd Year at Carleton U
+- 🎓 **Software Engineering** 4th Year at Carleton U
 - 🌍 Based in **Canada**
-- 🔭 I’m currently working on a **Pokedex app**
-- 📚 I'm currently learning **Kotlin / Jetpack Compose**
+- 🔭 I’m currently working on a **Bomberman Game**
 
 ## 🔧 Technologies & Tools
 
